@@ -20,7 +20,7 @@ We introduce an advanced conditional diffusion Mmodel tailored for synthesizing 
 
 This repository is organized as follows:
 
-1. **Notebooks**: This directory contains all Jupyter notebooks that provide the code implementations of the various techniques used in the research.
+1. **Notebooks**: This [directory](/notebooks) contains all Jupyter notebooks that provide the code implementations of the various techniques used in the research.
 
 2. **Data**: Due to the constraints posed by the Github platform, the dataset used in our research is not provided here. Nevertheless, the energy dataset (including meter data, metadata, and weather data) could be found on [BDG2 Github repository](https://github.com/buds-lab/building-data-genome-project-2).
 
