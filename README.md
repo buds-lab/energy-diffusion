@@ -8,7 +8,7 @@ Advances in machine learning and increased computational power have driven progr
 
 ## Research Concept
 
-![Research Concept](https://raw.githubusercontent.com/buds-lab/energy-diffusion/main/research_concept.jpg)
+![Research Concept](buds-lab/energy-diffusion/main/research_concept.jpg)
 
 ## Repository Content
 
