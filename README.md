@@ -11,7 +11,7 @@ Advances in machine learning and increased computational power have driven progr
 ## Proposed conditional diffusion model
 
 Original 1D time series energy data were reshaped into 2D data to capture weekly usage patterns and then integrated into the image-based generative model.
-![Data reshaping](https://github.com/buds-lab/energy-diffusion/blob/main/reshaping_illustration.jpg)
+![Data reshaping](https://github.com/buds-lab/energy-diffusion/blob/main/data_reshaping.jpg)
 
 We introduce an advanced conditional diffusion Mmodel tailored for synthesizing high-quality, long-term energy data. This model employs a context-dependent U-Net architecture to incorporate metadata about energy consumption patterns. Further enhancing its capabilities, a time-embedding layer is integrated to capture the temporal dependencies prevalent in energy data. Our conditional diffusion model starts with a noise base and progressively denoises it into realistic energy data, which are aligned with encoded metadata attributes. This dual capability of maintaining data integrity while factoring in rich contextual and temporal information makes it particularly well-suited for handling complex but structured energy datasets.
 ![Diffusion model](https://github.com/buds-lab/energy-diffusion/blob/main/diffusion_illustration.jpg)
