@@ -27,3 +27,18 @@ This repository is organized as follows:
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+## Citation
+
+If you use this code or our findings in your research, please cite our paper using the following Bibtex entry:
+
+```bibtex
+@article{fu2024creating,
+  title={Creating synthetic energy meter data using conditional diffusion and building metadata},
+  author={Fu, Chun and Kazmi, Hussain and Quintana, Matias and Miller, Clayton},
+  journal={Energy and Buildings},
+  volume={312},
+  pages={114216},
+  year={2024},
+  publisher={Elsevier}
+}
